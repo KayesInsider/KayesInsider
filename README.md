@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kayes Ahmed
 - 👀 I’m interested in coding, Designing , building websites/ Web development
-- 🌱 I’m currently learning software developing 
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me --->
 - Website:https://kayesahmed.com
