@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kayes Ahmed
-- 👀 I’m interested in coding, Designing , building websites/ Web development
+- 👀 I’m interested in coding, Designing , building websites/ Web development, Content creation and Photoghraphy
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me --->
